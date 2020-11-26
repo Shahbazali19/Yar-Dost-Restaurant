@@ -223,7 +223,7 @@ button:focus{
     position: absolute;
     height: 50px;
     width: 50px;
-    top: 50%;
+    top: 130px;
     font-size: 20px;
     display: block;
     color: #fff;
@@ -538,7 +538,7 @@ button:focus{
 	position: absolute;
 	width: 8%;
 	height: 50px;
-	top: 50%;
+	top: 30px;
 	border-radius: 4px;
 	font-size: 28px;
 	opacity: 1;
@@ -555,7 +555,7 @@ button:focus{
 	position: absolute;
 	width: 8%;
 	height: 50px;
-	top: 50%;
+	top: 30px;
 	border-radius: 4px;
 	font-size: 28px;
 	opacity: 1;
