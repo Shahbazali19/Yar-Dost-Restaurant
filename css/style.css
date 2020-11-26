@@ -943,9 +943,9 @@ button:focus{
 #back-to-top {
     position: fixed;
     bottom: 30px;
-    right: 50px;
+    right: 6px;
     z-index: 9999;
-    width: 42px;
+    width: 32px;
     height: 40px;
     text-align: center;
     line-height: 40px;
